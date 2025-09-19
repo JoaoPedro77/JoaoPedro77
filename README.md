@@ -9,8 +9,8 @@
 
 <img 
   align="right" 
-  src="https://s4.anilist.co/file/anilistcdn/user/avatar/large/b6301502-AaPeA9l50dsK.png"  
-  width="200" 
+  src="https://raw.githubusercontent.com/JoaoPedro77/JoaoPedro77/refs/heads/main/kate%20salguadin.png"  
+  width="180" 
   style="border-radius: 20px;" 
 />
 
