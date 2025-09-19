@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">🌐 Onde me encontrar</h3>
+<h3 align="left">🌐 To por aí</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/joaoj_pedroo/" target="_blank">
