@@ -28,16 +28,9 @@
 <h3 align="left">🌐 To por aí</h3>
 
 <div align="left">
-  <a href="https://www.instagram.com/joaoj_pedroo/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.youtube.com/@joaojpedu" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  
-  <a href="mailto:joaojpedrocardoso@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+  <a href="https://www.instagram.com/joaoj_pedroo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" /></a>
+  <a href="https://www.youtube.com/@joaojpedu" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="35" /></a>
+  <a href="mailto:joaojpedrocardoso@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" /></a>
 </div>
 
 ###
