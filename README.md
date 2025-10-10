@@ -3,7 +3,7 @@
 ###
 
 <p align="left">🛵 Estudando para ser desenvolvedor <b>full-stack</b><br>
-  <br>🎨 Desenvolvimento front-end<br>🕹️ desenvolvimento de jogos<br>🎈 arte e ilustrações<br><br>🏂 Atualmente estudando React</p>
+  <br>🎨 Desenvolvimento front-end<br>🕹️ desenvolvimento de jogos<br>🎈 arte e ilustrações<br><br>🏂 Atualmente estudando VUE</p>
 
 ###
 
@@ -20,7 +20,7 @@
 <h3 align="left">⚡ Tecnologias & Ferramentas</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,gamemakerstudio,electron,flutter,py,ps" height="35" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,vue,nuxtjs,electron,godot,py,ps" height="35" />
 </div>
 
 ###
