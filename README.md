@@ -20,7 +20,7 @@
 <h3 align="left">⚡ Tecnologias & Ferramentas</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,gamemakerstudio,electron,godot,flutter,py,ps" height="35" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,gamemakerstudio,electron,flutter,py,ps" height="35" />
 </div>
 
 ###
